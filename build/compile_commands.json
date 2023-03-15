@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/alextang/prog/BCH/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/BCH2616.dir/main.cpp.o -c /home/alextang/prog/BCH/main.cpp",
+  "file": "/home/alextang/prog/BCH/main.cpp"
+},
+{
+  "directory": "/home/alextang/prog/BCH/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/BCH2616.dir/BCH.cpp.o -c /home/alextang/prog/BCH/BCH.cpp",
+  "file": "/home/alextang/prog/BCH/BCH.cpp"
+}
+]

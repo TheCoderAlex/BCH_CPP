@@ -1,1 +1,1 @@
-/usr/bin/g++ -rdynamic CMakeFiles/BCH2616.dir/main.cpp.o CMakeFiles/BCH2616.dir/BCH.cpp.o -o BCH2616 
+/usr/bin/g++ -g -rdynamic CMakeFiles/BCH2616.dir/main.cpp.o CMakeFiles/BCH2616.dir/BCH.cpp.o -o BCH2616 
